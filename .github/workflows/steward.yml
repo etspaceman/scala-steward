@@ -11,6 +11,8 @@ jobs:
   steward:
     runs-on: ubuntu-latest
     name: DIY Steward
+    env:
+      SBT_OPTS: -Xmx2G
     steps:
       - uses: actions/checkout@v4
           
