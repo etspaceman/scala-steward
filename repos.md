@@ -1,0 +1,3 @@
+- etspaceman/kinesis-mock
+- etspaceman/kinesis4cats
+- etspaceman/scalacheck-faker
