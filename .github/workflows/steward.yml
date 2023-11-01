@@ -27,3 +27,4 @@ jobs:
           github-token: ${{ steps.generate-token.outputs.token }}
           author-email: 417002+ etspaceman-scala-steward-app[bot]@users.noreply.github.com
           author-name:  etspaceman-scala-steward-app[bot]
+          repos-file: 'repos.md'
